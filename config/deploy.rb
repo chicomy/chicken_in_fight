@@ -1,8 +1,8 @@
 # config valid for current version and patch releases of Capistrano
 lock "~> 3.14.1"
 
-set :application, "hots_chicken_in_fight"
-set :repo_url, "git@github.com:chicomy/hots_chicken_in_fight.git"
+set :application, "chicken_in_fight"
+set :repo_url, "git@github.com:chicomy/chicken_in_fight.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
